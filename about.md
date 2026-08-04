@@ -18,7 +18,7 @@ I received my Ph.D. in Mathematics from Nanjing University in 2024.
 - Mingxiang Li, Juncheng Wei, Xingwang Xu, On geometry of \( Q_{2k}^{2k} \)-curvature, arxiv
 - Mingxiang Li, Biao Ma, Existence of complete conformal metrics on \( R^n \) with prescribed Q-curvature, arxiv
 - Mingxiang Li, The total Q-curvature, volume entropy and polynomial growth polyharmonic functions (II), arxiv
-- Mingxiang Li, Conformal metrics with finite total Q-curvature revisited, arxiv
+- Mingxiang Li, Conformal metrics with finite total Q-curvature revisited, arxiv $R^n$
 - Mingxiang Li, Juncheng Wei, Higher order Bol's equality and its applications, arxiv
 
 ## Publications
