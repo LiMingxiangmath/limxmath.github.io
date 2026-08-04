@@ -15,7 +15,7 @@ Mathematische Annalen,
 389 (2024), 2499--2517.
 
 
-[PDF](assets/pdf/Liouville-MA-2024.pdf)
+[PDF](assets/images/pdf/Chen-Li-Li-Xu-21-JDE.pdf)
 
 Mingxiang Li, *The total Q-curvature, volume entropy and polynomial growth
 polyharmonic functions*, Advances in Mathematics 450 (2024).
