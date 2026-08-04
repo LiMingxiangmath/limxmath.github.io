@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-<img src="/files/me.jpg" alt="Mingxiang Li" width="200">
+<img src="assets/images/picture.JPG" alt="Mingxiang Li" width="200">
 
 
 ## Research Interests
