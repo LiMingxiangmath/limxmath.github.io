@@ -6,7 +6,7 @@ title: Homepage
 
 
 ## Employment 
-- The Chinese University of Hong Kong,     $\quad$    Sep 2024 -Current   $\quad$  PostDoc Fellow
+- The Chinese University of Hong Kong,    &emsp  Sep 2024 -Current   &emsp PostDoc Fellow
 
 ## Eudcation
 - Nanjing University     $\quad$   $\quad$  $\quad$   Sep 2019 - Jun 2024,       $\quad$   Ph.D. Degree, $\quad$ $\quad$ $\quad$ $\quad$  Advisor: Xingwang Xu
