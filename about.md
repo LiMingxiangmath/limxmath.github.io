@@ -8,6 +8,9 @@ title: About Me
 
 <img src="assets/images/picture.JPG" alt="Mingxiang Li" width="200">
 
+## Contact
+- limx@smail.nju.edu.cn
+- limxmath@gmail.com
 
 ## Research Interests
 
