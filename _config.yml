@@ -1,0 +1,6 @@
+title: Mingxiang Li
+description: Academic homepage of Mingxiang Li
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+theme: minima
