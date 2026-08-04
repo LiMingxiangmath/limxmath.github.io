@@ -9,9 +9,9 @@ title: Homepage
 - The Chinese University of Hong Kong,    &emsp  Sep 2024 -Current   &emsp PostDoc Fellow
 
 ## Eudcation
-- Nanjing University     $\quad$   $\quad$  $\quad$   Sep 2019 - Jun 2024,       $\quad$   Ph.D. Degree, $\quad$ $\quad$ $\quad$ $\quad$  Advisor: Xingwang Xu
-- University Paul Sabatier     $\quad$   Oct 2022 - Aug 2023,                     $\quad$ Joint Ph.D. Program, $\quad$  $\quad$  Advisor: Yuxin Ge
-- Nanjing University          $\quad$  $\quad$  $\quad$   Sep 2015 - Jun 2019,    $\quad$ Bachelor Degree
+- Nanjing University     &emsp    Sep 2019 - Jun 2024,        &emsp  Ph.D. Degree, &emsp   Advisor: Xingwang Xu
+- University Paul Sabatier      &emsp   Oct 2022 - Aug 2023,                      &emsp Joint Ph.D. Program,  &emsp  Advisor: Yuxin Ge
+- Nanjing University           &emsp   Sep 2015 - Jun 2019,     &emsp  Bachelor Degree
 
 ## Preprints
 
