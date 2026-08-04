@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 ---
-<img src="/assets/images/profile.jpg" width="200">
+<img src="/assets/images/profile.JPG" width="200">
 # About Me
 
 I am a Postdoctoral Fellow in the Department of Mathematics at
