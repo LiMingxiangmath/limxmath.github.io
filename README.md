@@ -1,3 +1,2 @@
-# Mingxiang Li Academic Homepage
+# Mingxiang Li （李明翔） Academic Homepage
 
-GitHub Pages + Jekyll academic website.
