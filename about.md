@@ -6,7 +6,7 @@ title: About Me
 - 1996.09.12
 - Lianshui(涟水), Jiangsu
 
-<img src="assets/images/picture.JPG" alt="Mingxiang Li" width="200">
+<img src="assets/images/picture.jpg" alt="Mingxiang Li" width="200">
 
 ## Contact
 - limx@smail.nju.edu.cn
