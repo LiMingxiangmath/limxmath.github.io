@@ -3,10 +3,7 @@ layout: page
 title: About Me
 ---
 
-# About Me
-
 
 ## Research Interests
 
-Geometric analysis, conformal geometry, Q-curvature, and nonlinear PDE.
-
+Geometric analysis, conformal geometry and nonlinear PDE. Recently, I focus on some problems related to Q-curvature.
