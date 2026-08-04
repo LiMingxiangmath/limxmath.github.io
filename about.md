@@ -15,7 +15,7 @@ I received my Ph.D. in Mathematics from Nanjing University in 2024.
 - Mingxiang Li, Bonnet-Myers type theorems for $Q$-curvature on four-manifolds, arxiv
 - Mingxiang Li, Xingwang Xu, A sharp isoperimetric inequality and the top order $Q$-curvature, arxiv
 - Kui Li, Mingxiang Li, Juncheng Wei, On a new region for the Lane-Emden conjecture in higher dimensions, arxiv
-- Mingxiang Li, Juncheng Wei, Xingwang Xu, On geometry of $Q_{2k}^{2k}$-curvature, arxiv
+- Mingxiang Li, Juncheng Wei, Xingwang Xu, On geometry of $Q_{2k}^{g}$-curvature, arxiv
 - Mingxiang Li, Biao Ma, Existence of complete conformal metrics on  $\mathbb{R}^n$ with prescribed Q-curvature, arxiv
 - Mingxiang Li, The total Q-curvature, volume entropy and polynomial growth polyharmonic functions (II), arxiv
 - Mingxiang Li, Conformal metrics with finite total Q-curvature revisited, arxiv 
@@ -23,8 +23,8 @@ I received my Ph.D. in Mathematics from Nanjing University in 2024.
 
 ## Publications
 
-- Mingxiang Li, Obstructions to prescribed Q-curvature of complete conformal metrics on $\mathbb{R}^n$, Rev. Mat. Iberoam. 42 (2026), no. 1, pp. 75–94.
-- Mingxiang Li, Xingwang Xu, On positivity of the Q-curvatures of conformal metrics, J. Funct. Anal. 289 (2025), no. 8, Paper No. 111011, 23 pp.
+- Mingxiang Li, Obstructions to prescribed Q-curvature of complete conformal metrics on $\mathbb{R}^n$, **Rev. Mat. Iberoam.** 42 (2026), no. 1, pp. 75–94.
+- Mingxiang Li, Xingwang Xu, On positivity of the $Q$-curvatures of conformal metrics, J. Funct. Anal. 289 (2025), no. 8, Paper No. 111011, 23 pp.
 - Mingxiang Li, Asymptotic behavior of conformal metrics with null Q-curvature, J. Geom. Anal. 35 (2025), no. 5, Paper No. 145.
 - Mingxiang Li, Juncheng Wei, A remark on the Case-Gursky-Vetois identity and its applications, Proc. Amer. Math. Soc. 153 (2025), no. 08, 3417–3430.
 - Yuxin Ge, Mingxiang Li, Zhao Lian, A new invariant on 3-dimensional manifolds and applications, Commun. Contemp. Math. 27 (2025), no. 5, 2450036.
