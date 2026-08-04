@@ -8,8 +8,8 @@ title: Homepage
 - The Chinese University of Hong Kong,     Sep 2024 -Current,   PostDoc Fellow, Mentor: Juncheng Wei
 
 ## Eudcation
-- Nanjing University,   Sep 2019 - Jun 2024,         Ph.D. Degree, &emsp   Advisor: Xingwang Xu
-- University Paul Sabatier,        Oct 2022 - Aug 2023                     Joint Ph.D. Program,  &emsp  Advisor: Yuxin Ge
+- Nanjing University,   Sep 2019 - Jun 2024,         Ph.D. Degree,   Advisor: Xingwang Xu
+- University Paul Sabatier,        Oct 2022 - Aug 2023                     Joint Ph.D. Program,  Advisor: Yuxin Ge
 - Nanjing University,               Sep 2015 - Jun 2019,     Bachelor Degree
 
 ## Preprints
