@@ -8,18 +8,14 @@ title: Homepage
 Postdoctoral Fellow in Mathematics  
 The Chinese University of Hong Kong
 
-## Research Interests
 
-Geometric analysis, conformal geometry, Q-curvature, and nonlinear PDE.
 
-I am a Postdoctoral Fellow in the Department of Mathematics at
-The Chinese University of Hong Kong.
 
-I received my Ph.D. in Mathematics from Nanjing University in 2024.
+
 
 ## Preprints
 
-- Mingxiang Li, Bonnet-Myers type theorems for $Q$-curvature on four-manifolds, arxiv
+- Mingxiang Li, Bonnet-Myers type theorems for $Q$-curvature on four-manifolds, [arxiv](https://arxiv.org/abs/2607.25343)
 - Mingxiang Li, Xingwang Xu, A sharp isoperimetric inequality and the top order $Q$-curvature, arxiv
 - Kui Li, Mingxiang Li, Juncheng Wei, On a new region for the Lane-Emden conjecture in higher dimensions, arxiv
 - Mingxiang Li, Juncheng Wei, Xingwang Xu, On geometry of $Q_{2k}^{g}$-curvature, arxiv
