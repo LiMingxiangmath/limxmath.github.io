@@ -5,7 +5,7 @@ title: Homepage
 
 
 ## Employment 
-- The Chinese University of Hong Kong,     Sep 2024 -Current  PostDoc Fellow
+- The Chinese University of Hong Kong,     Sep 2024 -Current,   PostDoc Fellow, Mentor: Juncheng Wei
 
 ## Eudcation
 - Nanjing University,   Sep 2019 - Jun 2024,         Ph.D. Degree, &emsp   Advisor: Xingwang Xu
