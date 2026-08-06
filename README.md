@@ -1,2 +1,2 @@
-# Mingxiang Li （李明翔） Academic Homepage
+# Mingxiang Li （李明翔）  Homepage
 
