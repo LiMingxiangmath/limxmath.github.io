@@ -23,5 +23,5 @@ Geometric analysis, conformal geometry and nonlinear PDE. Recently, I focus on s
 - China National Scholarship for Graduate Student, Dec. 2021.
 - Principle Special Award of Nanjing University, Sep. 2019.
 
-   ## Motto
+## Motto
 - Cogito, ergo sum (I think, therefore I am)
